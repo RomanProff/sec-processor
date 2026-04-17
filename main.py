@@ -1,4 +1,3 @@
-#import sys
 from sec import ticker_to_cik, cik_to_url, download_company_info, download_company_filings_data
 
 def main():
